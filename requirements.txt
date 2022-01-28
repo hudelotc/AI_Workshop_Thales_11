@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pyagrum
+pydotplus
+numpy
+ortools
+facile>=1.5
+jupyterlab
+click
+mypy
+flake8
+isort
