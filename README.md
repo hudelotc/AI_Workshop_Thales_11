@@ -1,4 +1,4 @@
-# AI Workshop - Symbolic AI - Session9
+# AI Workshop - Symbolic AI - Session10
 
 
 This repo contains the set of practical works associated to the course on Symbolic AI
