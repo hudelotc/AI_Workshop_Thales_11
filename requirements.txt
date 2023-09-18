@@ -4,8 +4,10 @@ pyagrum
 pydotplus
 numpy
 ortools
-facile
+facile>=1.5
 jupyterlab
+matplotlib
+numpy
 click
 mypy
 flake8
