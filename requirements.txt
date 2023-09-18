@@ -4,7 +4,7 @@ pyagrum
 pydotplus
 numpy
 ortools
-facile>=1.5
+facile
 jupyterlab
 click
 mypy
